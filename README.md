@@ -9,7 +9,7 @@
 
 
 ## General Information
-- My first Landing Page created in 2021 with HTML5 CSS3 Javascript and Boostrap
+- My first Landing Page created in 2021 with HTML5 CSS3 Javascript and Boostrap.
 
 
 ## Technologies Used
